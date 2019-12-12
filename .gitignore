@@ -1,23 +1,24 @@
-# Compiled class file
-*.class
+# Eclipse - you still can reinport source code to Eclipse later
+.classpath
+.externalToolBuilders
+.project
+build.xml
 
-# Log file
-*.log
+# Intellij - you still can reinport source code to Intellij later
+.idea/
+*.iml
 
-# BlueJ files
-*.ctxt
+# Temp file/folder
+build
+out/
+bin
+.*
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+# Gradle
+.gradle
+gradle
+gradlew
+gradlew.bat
+# keep this for rebuild by gradle
+!build.gradle
+!settings.gradle
