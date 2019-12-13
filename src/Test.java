@@ -5,5 +5,7 @@ public class Test{
         System.out.println("Feature1");
 
         System.out.println("Feature1 update a");
+
+        System.out.println("hotfix1");
     }
 }
