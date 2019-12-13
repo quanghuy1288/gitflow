@@ -3,5 +3,7 @@ public class Test{
         System.out.println("Hello Test Gitflow");
 
         System.out.println("Feature1");
+
+        System.out.println("Feature1 update a");
     }
 }
