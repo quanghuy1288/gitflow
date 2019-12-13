@@ -9,5 +9,7 @@ public class Test{
         System.out.println("hotfix1");
 
         System.out.println("hotfix2");
+        
+        System.out.println("Feature2");
     }
 }
